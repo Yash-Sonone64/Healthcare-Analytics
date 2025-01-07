@@ -1,6 +1,6 @@
 # Healthcare Analytics Dashboard Development
 
-# Tools Used: Power BI, Excel, SQL, Python
+# Tools Used: Power BI, Excel, SQL, Python, Statistical Analysis
 # Project Description: Developed an interactive dashboard to analyze healthcare provider financial metrics, enabling better decision-making and operational efficiency.
 
 # Key Achievements:
